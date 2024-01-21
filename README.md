@@ -1,6 +1,6 @@
 ## Hello👋 I'm Rohit 👨‍💻
 
-I am a fullstack developer from India and a Javascript Enthusiast
+I am Javascript enthusiast from India 
 
 ### Currently I am working with ...
 <a href="" title="HTML" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -26,11 +26,17 @@ I am a fullstack developer from India and a Javascript Enthusiast
 <a href="" target="_blank" title="Big Query" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Big Query" width="60" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 
+### Checkout some of my projects
+
+<a href="https://the-tenzie-game.netlify.app/" title="Tenzie Dice">Playing Tenzie Dice</a><br>
+<a href="https://your-one-minute-typing-test.netlify.app/" title="Typing Tester">Typing Tester</a><br>
+<a href="https://rohits-meme-generator.netlify.app/" title="Meme Generator">Meme Generator</a><br>
+<a href="https://rohit-magar-airbnb-clone.netlify.app/" title="AirBnb">Airbnb</a>
 
 ### I am active on...
 
 <a href="https://www.linkedin.com/in/rohit-magar-429286a6/" title="rohitmagar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/croc_rots/" title="rohitmagar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Quora" width="30" height="30"/></a>
+<a href="https://www.quora.com/profile/Rohit-Magar-2" title="rohitmagar" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="Quora" width="30" height="30"/></a>
 
 
 ### You can also find me on ...
