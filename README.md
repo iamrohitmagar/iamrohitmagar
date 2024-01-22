@@ -41,7 +41,7 @@ I am Javascript enthusiast from India
 
 ### You can also find me on ...
 
-<a href="https://www.instagram.com/croc_rots/" title="croc_rots" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a> &nbsp; &nbsp;
+<a href="https://www.instagram.com/croc_rots/" title="croc_rots" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="mailto:iamrohitmagar@gmail.com" target="_blank" title="iamrohitmagar@gmail.com" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/iamrohitmagar" target="_blank" title="rohitmagar" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>
 
