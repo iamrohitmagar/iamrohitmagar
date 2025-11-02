@@ -1,4 +1,4 @@
-## Hello👋 I'm Rohit 👨‍💻
+## Hello👋 I'm Rohit R Magar 👨‍💻
 
 I am Javascript enthusiast from India 
 
